@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>不休陀螺</title>
+    <link>https://unceasingtop.github.io/</link>
+    <description>悟已往之不谏 | 知来者之可追</description>
+    <language>zh-CN</language>
+    <copyright>All rights reserved 2026, Spiral</copyright>
+    <lastBuildDate>Mon, 09 Nov 2026 17:10:27 GMT</lastBuildDate>
+    <generator>Hexo</generator>
+    <atom:link href="https://unceasingtop.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>自由</title>
+      <link>https://unceasingtop.github.io/2026/09/16/%E8%87%AA%E7%94%B1/</link>
+      <description>
+        <![CDATA[<p>在我们的日常语言中，家是一个令人安心的地方。落叶要归根，「家」乡是令人怀念的。然而，我对家一直怀有矛盾的情感，我离不开它，但又畏惧着它。</p>
+<p>我家是农村自建房，几乎没有装修内饰，大量杂物随意堆放着。从幼时起，我便感觉有所不适。它像一只不知疲倦的饕餮，吞进大量杂物，]]>
+      </description>
+      <author>Spiral</author>
+      <pubDate>Tue, 15 Sep 2026 17:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于欲望</title>
+      <link>https://unceasingtop.github.io/2026/02/28/%E5%85%B3%E4%BA%8E%E6%AC%B2%E6%9C%9B/</link>
+      <description>
+        <![CDATA[<p>这么说或许有点奇怪，我在最近才能清晰地体会到「欲望」的状态。根据拉康的理论，欲望是一种对匮乏的追求，它表现为一种驱动力、一种追求的状态，因为欲望是由于符号世界对实在界的「需求」的阉割导致的，所以欲望主体也很难用语言去描述自己的「欲望」是什么，欲望主体只能感受到它的存在——莫]]>
+      </description>
+      <author>Spiral</author>
+      <pubDate>Sat, 28 Feb 2026 11:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于范式的思考</title>
+      <link>https://unceasingtop.github.io/2026/02/01/20260201_%E5%85%B3%E4%BA%8E%E8%8C%83%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <description>
+        <![CDATA[<p>说来惭愧，建站这么久都没有写出一篇像样的长文来。虽然在前言的部分强调了要尽可能真实地反映内心这样的漂亮话，真正落笔的时候却露了怯。不想用晦涩的语言搭建起概念的迷宫草草了事，也没办法动笔去对真实的事情描绘一二，此外，或许也有我笔力有限的因素。但不管怎么说，如果没有开始，就没有]]>
+      </description>
+      <author>Spiral</author>
+      <pubDate>Sun, 01 Feb 2026 07:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>前言</title>
+      <link>https://unceasingtop.github.io/2025/10/17/%E5%89%8D%E8%A8%80/</link>
+      <description>
+        <![CDATA[<p>怀着激动的心情，我写下这第一篇博客。作为对程序一窍不通的人员，部署这个这个网站花了一个晚上。</p>
+<p>实际上做一个个人博客网站的想法在我脑海中盘旋了很久，但只有今天，我终于鼓足勇气去那么做了。原因也许很简单：我到达了一个需要深度探索内心的十字路口。</p>
+<p>自我]]>
+      </description>
+      <author>Spiral</author>
+      <pubDate>Fri, 17 Oct 2025 15:25:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
